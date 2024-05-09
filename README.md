@@ -65,8 +65,9 @@ public class PlayerController : MonoBehaviour
 ```
 
 ## Output:
+#### Mini Game
 ![image](https://github.com/ShyamKumar-AI-DS/Ex06-Redirecting-the-Scene/assets/93427182/8b128254-0f1c-4a07-9072-8a53eaedfbb2)
-
+#### lEVEL 2
 ![image](https://github.com/ShyamKumar-AI-DS/Ex06-Redirecting-the-Scene/assets/93427182/7a6de44e-0e48-465d-b3de-f8229fd90b84)
 
 
